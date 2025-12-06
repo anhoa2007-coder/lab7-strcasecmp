@@ -52,4 +52,4 @@ Ky tu 'o' xuat hien 2 lan trong chuoi (khong phan biet hoa thuong).
 - `strcasecmp`: so sánh chuỗi không phân biệt hoa thường.
 
 - Kỹ thuật tạo chuỗi tạm: giúp so sánh từng ký tự với ký tự nhập vào.
-- Gọn hơn thàng `strstr` hay `strlwr` làm dài dòng :))))
+- Gọn hơn trên detectkytusieumoikoaithich.c
